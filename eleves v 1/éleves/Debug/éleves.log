@@ -1,0 +1,3 @@
+﻿  éleves.cpp
+c:\users\bd\desktop\programmes marcio\éleves\éleves\éleves.cpp(16): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+  éleves.vcxproj -> C:\Users\BD\Desktop\Programmes Marcio\éleves\Debug\éleves.exe
